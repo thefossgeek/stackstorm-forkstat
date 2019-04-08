@@ -1,0 +1,9 @@
+---
+ref: forkstat
+name: forkstat
+description: StackStorm integration pack for forkstat.
+keywords: 
+    - forkstat
+version: 0.1.0
+author: Mohan L
+email: thefossgeek@gmail.com
